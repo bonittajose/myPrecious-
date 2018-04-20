@@ -1,0 +1,4 @@
+{
+    "gold": "https://www.quandl.com/api/v1/datasets/CHRIS/MCX_GC1.json",
+    "silver": "https://www.quandl.com/api/v1/datasets/CHRIS/MCX_SI1.json"
+}
